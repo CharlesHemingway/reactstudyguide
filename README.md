@@ -5,7 +5,9 @@ A father / son open source learning project aiming to understand the basics of R
 
 To get started: 
 >clone https://github.com/OssielRomero/reactstudyguide.git
+
 >yarn install
+
 >Yarn start
 
 Runs the app in the development mode.
